@@ -1,0 +1,41 @@
+﻿SET !ERRORIGNORE YES
+CMDLINE !DATASOURCE webcam_sex.csv
+SET !DATASOURCE_COLUMNS 6
+SET !LOOP 11
+SET !DATASOURCE_LINE {{!LOOP}}
+SET !VAR1 0
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://porno-maniac.org/newreply.php?p=4968475&noquote=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=ID:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://kitty-kats.net/newreply.php?p=6819565&noquote=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=ID:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://9teens.org/newreply.php?p=3939234&noquote=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=ID:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://jdforum.org/newreply.php?do=newreply&noquote=1&p=3033497
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+WAIT SECONDS=3821
+TAB CLOSEALLOTHERS

@@ -1,0 +1,75 @@
+﻿SET !ERRORIGNORE YES
+CMDLINE !DATASOURCE squirting_gushing_female_orgasm_ejaculation.csv
+SET !DATASOURCE_COLUMNS 6
+SET !DATASOURCE_LINE {{STEP}}
+SET !VAR1 0
+
+
+ADD !VAR1 1
+TAB T={{!VAR1}}
+URL GOTO=http://fetish.pornbb.org/posting.php?mode=reply&t=1173033
+WAIT SECONDS=5
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+WAIT SECONDS=7
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=kitty-kats.net/threads/squirting-sex-gushing-female-ejaculation-squirting-orgasm.2394996/
+TAG POS=1 TYPE=A ATTR=HREF:javascript:void(null);
+TAG POS=1 TYPE=TEXTAREA FORM=ID:QuickReply ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:QuickReply ATTR=*
+
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=bdsm-zone.com/newreply.php?do=newreply&noquote=1&p=11096849
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=vipergirls.to/newreply.php?p=14026848&noquote=1
+TAG POS=1 TYPE=SPAN ATTR=ID:cke_27
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=www.extreme-board.com/newreply.php?do=newreply&noquote=1&p=11989928
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=www.intporn.org/threads/squirting-sex-gushing-female-ejaculation-squirting-orgasm.763751/
+TAG POS=1 TYPE=A ATTR=HREF:javascript:void(null);
+TAG POS=1 TYPE=TEXTAREA FORM=ID:QuickReply ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:QuickReply ATTR=*
+
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=www.sexfetishforum.com/smaller-fetish-boards(please-give-some-attention-to-these-boards-please-fill-them-with-your-posts-)/squirting-sex-gushing-female-ejaculation-squirting-orgasm-!!/?action=post;last_msg=1077512411
+TAG POS=1 TYPE=TEXTAREA FORM=ID:postmodify ATTR=ID:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:postmodify ATTR=*
+
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=porno-maniac.org/newreply.php?p=8755234&noquote=1
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+TAB CLOSEALLOTHERS

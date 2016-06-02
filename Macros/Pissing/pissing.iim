@@ -1,0 +1,76 @@
+﻿SET !ERRORIGNORE YES
+CMDLINE !DATASOURCE pissing_sex.csv
+SET !DATASOURCE_COLUMNS 6
+SET !LOOP 1
+SET !DATASOURCE_LINE {{STEP}}
+SET !VAR1 0
+ 
+
+ADD !VAR1 1
+TAB T={{!VAR1}}
+URL GOTO=http://fetish.pornbb.org/posting.php?mode=reply&t=1167854
+WAIT SECONDS=4
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+WAIT SECONDS=5
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+WAIT SECONDS=15
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://porno-maniac.org/newreply.php?p=5143172&noquote=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=ID:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.topboard.org/newreply.php?do=newreply&noquote=1&p=6194396
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://bdsm-zone.com/newreply.php?do=newreply&noquote=1&p=7190826
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.intporn.org/threads/pissing-sex-videos-kinky-peeing-sluts-enjoying-golden-shower.482062/
+TAG POS=1 TYPE=A ATTR=HREF:javascript:void(null);
+WAIT SECONDS=5
+TAG POS=1 TYPE=TEXTAREA FORM=ID:QuickReply ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:QuickReply ATTR=*
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.extreme-board.com/newreply.php?do=newreply&noquote=1&p=9697844
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/newreply.php?p=6222804&noquote=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=ID:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.sexfetishforum.com/index.php?action=post;topic=772314.0;num_replies=0
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:postmodify ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ID:postmodify ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:postmodify ATTR=NAME:post
+
+TAB CLOSEALLOTHERS

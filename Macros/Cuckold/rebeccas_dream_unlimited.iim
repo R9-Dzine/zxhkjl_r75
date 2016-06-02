@@ -1,0 +1,100 @@
+﻿SET !ERRORIGNORE YES
+CMDLINE !DATASOURCE cuckold_sex.csv
+SET !DATASOURCE_COLUMNS 3
+SET !LOOP 155
+SET !DATASOURCE_LINE {{!LOOP}}
+SET !VAR1 0
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://myslavegirl.org/porn-videos/amateur-wife-sexual-adventures-cuckold-and-bbc-interrracial/?action=post;last_msg=4931981
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:postmodify ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ID:postmodify ATTR=ID:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:postmodify ATTR=*
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://bdsm-zone.com/newreply.php?do=newreply&noquote=1&p=6886883
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.porn-w.org/posting.php?mode=reply&f=2&t=6988900
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:postform ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:postform ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:postform ATTR=NAME:post
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.intporn.org/threads/cuckold-and-bbc-interrracial-amateur-wife-sexual-adventures.433665/
+TAG POS=1 TYPE=A ATTR=HREF:javascript:void(null);
+WAIT SECONDS=5
+TAG POS=1 TYPE=TEXTAREA FORM=ID:QuickReply ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:QuickReply ATTR=*
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.extreme-board.com/newreply.php?do=newreply&noquote=1&p=9209053
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/newreply.php?p=5415121&noquote=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=ID:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://extremal-board.com/newreply.php?do=newreply&noquote=1&p=721267
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://incest-forum.com/posting.php?mode=reply&f=38&t=8373
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:postform ATTR=ID:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ID:postform ATTR=ID:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:postform ATTR=NAME:post
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.sexfetishforum.com/index.php?action=post;topic=766446.0;num_replies=0
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:postmodify ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ID:postmodify ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:postmodify ATTR=NAME:post
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.linkindexxx.com/newreply.php?p=3758099&noquote=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=ID:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.elforro.com/newreply.php?do=newreply&noquote=1&p=11471909
+TAG POS=1 TYPE=IMG ATTR=SRC:http://www.elforro.com/images/editor/switchmode.gif
+WAIT SECONDS=5
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+WAIT SECONDS={{!COL3}}
+TAB CLOSEALLOTHERS

@@ -1,0 +1,650 @@
+﻿SET !ERRORIGNORE YES
+CMDLINE !DATASOURCE pissing_sex.csv 
+SET !DATASOURCE_COLUMNS 6
+SET !VAR1 0
+SET !VAR2 1
+
+'1*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.forumophilia.com/viewtopic.php?p=13845362
+
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+
+'2*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.forumophilia.com/viewtopic.php?t=317020&postdays=0&postorder=asc&start=15
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+
+'3*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.forumophilia.com/viewtopic.php?t=317020&postdays=0&postorder=asc&start=30
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+'4*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.forumophilia.com/viewtopic.php?t=317020&postdays=0&postorder=asc&start=45
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+
+'5*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.forumophilia.com/viewtopic.php?t=317020&postdays=0&postorder=asc&start=60
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.forumophilia.com/templates/SwiftBlue/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+

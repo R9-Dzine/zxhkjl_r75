@@ -1,0 +1,265 @@
+﻿SET !ERRORIGNORE YES
+CMDLINE !DATASOURCE shemale_sex_transsexual.csv 
+SET !DATASOURCE_COLUMNS 6
+SET !VAR1 0
+SET !VAR2 1
+
+'31*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://fetish.pornbb.org/shemales-getting-fucked-solo-and-dominating-males-sex-vids-t1167257-450.html
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+
+
+
+'32*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://fetish.pornbb.org/shemales-getting-fucked-solo-and-dominating-males-sex-vids-t1167257-465.html
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://img.pornbb.org/fetish/images/lang_english/icon_edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:post ATTR=ID:prfsubj CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:post ATTR=ID:ptres CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:post ATTR=NAME:post
+

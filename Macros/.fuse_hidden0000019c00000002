@@ -1,0 +1,269 @@
+	var german_counter, cuckold_counter, painal_counter,
+	shemale_counter, spanking_counter, voyeur_counter, webcam_counter, pissing_counter, latex_counter;
+	
+	german_counter=1;
+	cuckold_counter=12;
+	jerkoff_counter=1;
+	painal_counter=10000000;
+	shemale_counter=127;
+	spanking_counter=1000000;
+	voyeur_counter=329;
+	webcam_counter=587;
+	pissing_counter=279;
+	latex_counter=148;
+
+	var philia_german_counter, philia_cuckold_counter, philia_painal_counter,
+	philia_spanking_counter, philia_voyeur_counter,	philia_webcam_counter, philia_pissing_counter, philia_latex_counter;
+	
+	philia_german_counter=10000000;
+	philia_cuckold_counter=7;
+	philia_jerkoff_counter=100000000;
+	philia_painal_counter=10000000;
+	philia_spanking_counter=10000000;
+	philia_voyeur_counter=101;
+	philia_webcam_counter=215;
+	philia_pissing_counter=86;
+	philia_latex_counter=68;
+
+var philia_posts_counter = 1;
+var mod_4 = 0;
+var i = 0;
+
+
+for (i=0; i<=939; i++)
+{
+	
+//GERMAN
+	if ( german_counter<=448 )//*
+	
+		{	
+			iimSet ("STEP", german_counter);
+			iimPlay("German/german");
+			german_counter++;
+			iimPlay("CODE:WAIT SECONDS=60");		
+		};
+		
+
+//SHEMALE
+	if ( shemale_counter<=213 )//*
+	
+		{	
+			iimSet ("STEP", shemale_counter);
+			iimPlay("Shemale/shemale");
+			shemale_counter++;
+			iimPlay("CODE:WAIT SECONDS=60");
+		};
+
+
+
+//VOYEUR
+	if ( voyeur_counter<=517 )
+	
+		{	
+			iimSet ("STEP", voyeur_counter);
+			iimPlay("Voyeur/voyeur");
+			voyeur_counter++;
+			iimPlay("CODE:WAIT SECONDS=60");
+		};
+
+
+
+//LATEX
+	if ( latex_counter<=225 )//*
+	
+		{	
+			iimSet ("STEP", latex_counter);
+			iimPlay("Latex/latex");
+			latex_counter++;
+			iimPlay("CODE:WAIT SECONDS=60");
+		};
+
+//CUCKOLD
+	if ( cuckold_counter<=160 )//*
+	
+		{	
+			iimSet ("STEP", cuckold_counter);
+			iimPlay("Cuckold/cuckold");
+			cuckold_counter++;
+			iimPlay("CODE:WAIT SECONDS=60");
+		};
+
+
+//PAINAL
+	if ( painal_counter<=52 )//*
+	
+		{	
+			iimSet ("STEP", painal_counter);
+			iimPlay("Painal/painal");
+			painal_counter++;
+			iimPlay("CODE:WAIT SECONDS=60");
+		};
+	
+
+//PISSING
+	if ( pissing_counter<=461 )//*
+	
+		{	
+			iimSet ("STEP", pissing_counter);
+			iimPlay("Pissing/pissing");
+			pissing_counter++;
+			iimPlay("CODE:WAIT SECONDS=60");
+		};
+
+
+//WEBCAM
+	if ( webcam_counter<=733 )
+	
+		{	
+			iimSet ("STEP", webcam_counter);
+			iimPlay("Webcam/webcam");
+			webcam_counter++;
+			iimPlay("CODE:WAIT SECONDS=60");			
+		};
+
+
+//SPANKING
+	if ( spanking_counter<=414 )//*
+	
+		{	
+			iimSet ("STEP", spanking_counter);
+			iimPlay("Spanking/spanking");
+			spanking_counter++;
+			iimPlay("CODE:WAIT SECONDS=60");
+		};
+
+
+	
+	
+//JERKOFF
+	if ( jerkoff_counter<=198 )
+	
+		{	
+			iimSet ("STEP", jerkoff_counter);
+			iimPlay("Jerkoff/jerkoff");
+			jerkoff_counter++;
+			iimPlay("CODE:WAIT SECONDS=60");
+		};
+	
+	
+	
+
+
+ //======================================================================
+
+
+
+ 	//mod_4 = philia_posts_counter%4;
+
+if( /*mod_4 == 0 &&*/ philia_posts_counter <= 10 )
+{
+
+
+//LATEX
+	if ( philia_latex_counter<=225 )//*
+	
+		{	
+			iimSet ("STEP", philia_latex_counter);
+			iimPlay("Latex/latex-philia_all");
+			philia_latex_counter++;
+			iimPlay("CODE:WAIT SECONDS=60");
+		};
+
+//CUCKOLD
+		if ( philia_cuckold_counter<= 160 )
+		
+			{	
+				iimSet ("STEP", philia_cuckold_counter);
+				iimPlay("Cuckold/cuckold-philia_all");
+				philia_cuckold_counter++;
+				iimPlay("CODE:WAIT SECONDS=60");
+			};
+		
+
+//PISSING
+	if ( philia_pissing_counter<=461 )//*
+	
+		{	
+			iimSet ("STEP", philia_pissing_counter);
+			iimPlay("Pissing/pissing-philia_all");
+			philia_pissing_counter++;
+			iimPlay("CODE:WAIT SECONDS=60");
+		};
+	
+	
+		
+//VOYEUR
+		if ( philia_voyeur_counter<=517 )
+		
+			{	
+				iimSet ("STEP", philia_voyeur_counter);
+				iimPlay("Voyeur/voyeur-philia_all");
+				philia_voyeur_counter++;
+				iimPlay("CODE:WAIT SECONDS=60");
+			};
+		
+		
+//SPANKING
+		if ( philia_spanking_counter<=414 )
+		
+			{	
+				iimSet ("STEP", philia_spanking_counter);
+				iimPlay("Spanking/spanking-philia_all");
+				philia_spanking_counter++;
+				iimPlay("CODE:WAIT SECONDS=60");
+			};
+		
+		
+//GERMAN
+		if ( philia_german_counter<=448 )
+		
+			{	
+				iimSet ("STEP", philia_german_counter);
+				iimPlay("German/german-philia_all");
+				philia_german_counter++;
+				iimPlay("CODE:WAIT SECONDS=60");
+			};
+		
+		
+
+//JERKOFF
+		if ( philia_jerkoff_counter<=0 )
+		
+			{	
+				iimSet ("STEP", philia_jerkoff_counter);
+				iimPlay("Jerkoff/jerkoff-philia_all");
+				philia_jerkoff_counter++;
+				iimPlay("CODE:WAIT SECONDS=60");
+			};
+		
+		
+//PAINAL
+		if ( philia_painal_counter<=52 )
+		
+			{	
+				iimSet ("STEP", philia_painal_counter);
+				iimPlay("Painal/painal-philia_all");
+				philia_painal_counter++;
+				iimPlay("CODE:WAIT SECONDS=60");
+			};
+		
+		
+			
+//WEBCAM
+		if ( philia_webcam_counter<=733 )
+		
+			{	
+				iimSet ("STEP", philia_webcam_counter);
+				iimPlay("Webcam/webcam-philia_all");
+				philia_webcam_counter++;
+				iimPlay("CODE:WAIT SECONDS=60");
+			};
+	
+		philia_posts_counter++;
+	
+	}
+
+
+	iimPlay("CODE:WAIT SECONDS=3600");//n of threads x 1920
+
+}

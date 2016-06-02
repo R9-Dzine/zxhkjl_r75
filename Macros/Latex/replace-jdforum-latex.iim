@@ -1,0 +1,450 @@
+﻿SET !ERRORIGNORE YES
+CMDLINE !DATASOURCE latex_sex.csv 
+SET !DATASOURCE_COLUMNS 6
+SET !VAR1 0
+SET !VAR2 1
+
+'1*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://jdforum.org/130222-latex-sex-fetish-seductive-divas-skin-tight-latex-suites.html
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+
+'1*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://jdforum.org/130222-p2-latex-sex-fetish-seductive-divas-skin-tight-latex-suites.html
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+
+'1*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://jdforum.org/130222-p3-latex-sex-fetish-seductive-divas-skin-tight-latex-suites.html
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+
+'1*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://jdforum.org/130222-p4-latex-sex-fetish-seductive-divas-skin-tight-latex-suites.html
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+
+'1*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://jdforum.org/130222-p5-latex-sex-fetish-seductive-divas-skin-tight-latex-suites.html
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://jdforum.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+

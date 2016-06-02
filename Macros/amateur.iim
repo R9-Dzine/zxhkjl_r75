@@ -1,0 +1,137 @@
+﻿SET !ERRORIGNORE YES
+CMDLINE !DATASOURCE amateur_new.csv
+SET !DATASOURCE_COLUMNS 4
+SET !LOOP 52
+SET !DATASOURCE_LINE {{!LOOP}}
+SET !VAR1 0
+ 
+'ADD !VAR1 1
+'TAB OPEN
+'TAB T={{!VAR1}}
+'URL GOTO=http://pornshareproject.org/index.php?app=forums&module=post&section=post&do=reply_post&f=18&t=1268934
+'TAG POS=1 TYPE=TEXTAREA ATTR=CLASS:cke_source* CONTENT={{!COL2}}
+'TAG POS=1 TYPE=INPUT:SUBMIT ATTR=VALUE:Add<SP>Reply
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.porn-w.org/posting.php?mode=reply&f=2&t=6970581
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:postform ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:postform ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:postform ATTR=NAME:post
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.fritchy.com/newreply.php?do=newreply&noquote=1&p=4372033
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.intporn.org/threads/amateur-homemade-and-semi-amateur-sex-videos.423943/
+TAG POS=1 TYPE=A ATTR=HREF:javascript:void(null);
+WAIT SECONDS=5
+TAG POS=1 TYPE=TEXTAREA FORM=ID:QuickReply ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:QuickReply ATTR=*
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.extreme-board.com/newreply.php?do=newreply&noquote=1&p=9146421
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://porno-maniac.net/newreply.php?p=4889043&noquote=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=ID:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.topboard.org/newreply.php?do=newreply&noquote=1&p=5959216
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://kitty-kats.net/newreply.php?p=6761419&noquote=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=ID:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL3}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://pornshareproject.org/index.php?app=core&module=search&do=user_activity&mid=6371
+TAG POS=1 TYPE=TEXTAREA ATTR=CLASS:cke_source<SP>cke_enable_context_menu CONTENT={{!COL2}}
+WAIT SECONDS=5
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:postingform ATTR=NAME:dosubmit
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/newreply.php?p=5358581&noquote=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=ID:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://extremal-board.com/newreply.php?do=newreply&noquote=1&p=684961
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://9teens.org/newreply.php?p=3891264&noquote=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=ID:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://incest-forum.com/posting.php?mode=reply&f=38&t=8134
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:postform ATTR=ID:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ID:postform ATTR=ID:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:postform ATTR=NAME:post
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://jdforum.org/newreply.php?do=newreply&noquote=1&p=2954063
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.sexfetishforum.com/index.php?action=post;topic=766065.0;num_replies=0
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:postmodify ATTR=NAME:subject CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ID:postmodify ATTR=NAME:message CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:postmodify ATTR=NAME:post
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.linkindexxx.com/newreply.php?p=3707945&noquote=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=ID:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=DIR:ltr&&TABINDEX:1&&ROLE:textbox&&ARIA-LABEL:Rich<SP>text<SP>editor,<SP>vB_Editor_001_editor,<SP>press<SP>ALT<SP>0<SP>for<SP>help.&&CLASS:cke_source<SP>cke_enable_context_menu&&TXT: CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+ 
+WAIT SECONDS={{!COL4}}
+TAB CLOSEALLOTHERS

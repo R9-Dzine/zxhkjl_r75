@@ -1,0 +1,73 @@
+﻿SET !ERRORIGNORE YES
+SET !DATASOURCE_LINE {{STEP}}
+SET !VAR1 0
+
+
+ADD !VAR1 1
+TAB T={{!VAR1}}
+URL GOTO=http://fetish.pornbb.org
+
+
+
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://bdsm-zone.com
+
+
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.porn-w.org
+
+
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.intporn.org
+
+
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.extreme-board.com
+
+
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to
+
+
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.sexfetishforum.com
+
+
+
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://porno-maniac.org
+
+
+
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://kitty-kats.net
+
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://kitty-kats.net

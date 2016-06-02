@@ -1,0 +1,184 @@
+﻿SET !ERRORIGNORE YES
+CMDLINE !DATASOURCE shemale_sex_transsexual.csv 
+SET !DATASOURCE_COLUMNS 6
+SET !VAR1 0
+SET !VAR2 0
+
+'1*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.topboard.org/showthread.php?t=399318&page=32
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+
+'1*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.topboard.org/showthread.php?t=399318&page=33
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=IMG ATTR=SRC:http://www.topboard.org/images/buttons/edit.gif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:vbform ATTR=NAME:title CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=NAME:vbform ATTR=ID:vB_Editor_001_textarea CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:vbform ATTR=ID:vB_Editor_001_save
+
+

@@ -1,0 +1,1432 @@
+﻿SET !ERRORIGNORE YES
+CMDLINE !DATASOURCE pissing_sex.csv 
+SET !DATASOURCE_COLUMNS 6
+SET !VAR1 0
+SET !VAR2 1
+
+'1*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/threads/830890-Pissing-sex-videos-Kinky-peeing-sluts-enjoying-golden-shower?p=*
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+
+'2*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/threads/830890-Pissing-sex-videos-Kinky-peeing-sluts-enjoying-golden-shower/page2
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+
+'3*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/threads/830890-Pissing-sex-videos-Kinky-peeing-sluts-enjoying-golden-shower/page3
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+
+'4*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/threads/830890-Pissing-sex-videos-Kinky-peeing-sluts-enjoying-golden-shower/page4
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+
+'5*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/threads/830890-Pissing-sex-videos-Kinky-peeing-sluts-enjoying-golden-shower/page5
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+
+'6*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/threads/830890-Pissing-sex-videos-Kinky-peeing-sluts-enjoying-golden-shower/page6
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+
+'7*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/threads/830890-Pissing-sex-videos-Kinky-peeing-sluts-enjoying-golden-shower/page7
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+
+'8*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/threads/830890-Pissing-sex-videos-Kinky-peeing-sluts-enjoying-golden-shower/page8
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+
+
+
+'9*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/threads/830890-Pissing-sex-videos-Kinky-peeing-sluts-enjoying-golden-shower/page9
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+
+
+
+'10*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/threads/830890-Pissing-sex-videos-Kinky-peeing-sluts-enjoying-golden-shower/page10
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+
+
+
+'11*******************************************************************************
+SET !VAR3 0
+ADD !VAR1 1
+
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/threads/830890-Pissing-sex-videos-Kinky-peeing-sluts-enjoying-golden-shower/page11
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+ADD !VAR2 1
+ADD !VAR3 1
+SET !DATASOURCE_LINE {{!VAR2}}
+TAG POS={{!VAR3}} TYPE=A ATTR=TXT:Edit<SP>Post
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:titlefield CONTENT={{!COL1}}
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_editor CONTENT={{!COL2}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:editpost.php?do=updatepost&p=* ATTR=ID:vB_Editor_001_save
+
+
+

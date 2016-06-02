@@ -1,0 +1,42 @@
+﻿SET !ERRORIGNORE YES
+SET !VAR1 0
+
+ADD !VAR1 1
+TAB T={{!VAR1}}
+URL GOTO=http://fetish.pornbb.org/posting.php?mode=reply&t=1170502
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://bdsm-zone.com/newreply.php?do=newreply&noquote=1&p=9195218
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.intporn.org/threads/extreme-anal-sluts-amateur-anal-fisting-gaping-insertions.624778/
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.extreme-board.com/newreply.php?do=newreply&noquote=1&p=11073299
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://vipergirls.to/newreply.php?p=10067700&noquote=1
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.sexfetishforum.com/index.php?action=post;topic=787180.0;num_replies=3
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://porno-maniac.org/newreply.php?p=6835914&noquote=1
+ 
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://kitty-kats.net/threads/extreme-anal-sluts-amateur-anal-fisting-gaping-insertions.2340332/
+

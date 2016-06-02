@@ -1,0 +1,45 @@
+﻿SET !VAR1 0
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=bdsm-zone.com/newreply.php?do=newreply&noquote=1&p=8190048
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://kitty-kats.net/threads/french-sex-videos-amateur-girls-and-pornstars-from-france.2316131/
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=http://www.pornbb.org/posting.php?mode=reply&t=6911271
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=vipergirls.to/newreply.php?p=8321236&noquote=1
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=www.extreme-board.com/newreply.php?do=newreply&noquote=1&p=10661179
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=www.intporn.org/threads/french-sex-videos-amateur-girls-and-pornstars-from-france.568409/
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=www.sexfetishforum.com/index.php?action=post;topic=782065.0;num_replies=9
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=porno-maniac.org/newreply.php?p=6001331&noquote=1
+
+ADD !VAR1 1
+TAB OPEN
+TAB T={{!VAR1}}
+URL GOTO=porn-w.org
